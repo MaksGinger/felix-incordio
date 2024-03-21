@@ -1,14 +1,14 @@
+import 'package:felix_incordio/src/core/utils/logger.dart';
+import 'package:felix_incordio/src/feature/app/logic/tracking_manager.dart';
+import 'package:felix_incordio/src/feature/initialization/model/dependencies.dart';
+import 'package:felix_incordio/src/feature/initialization/model/environment_store.dart';
+import 'package:felix_incordio/src/feature/settings/bloc/settings_bloc.dart';
+import 'package:felix_incordio/src/feature/settings/data/locale_datasource.dart';
+import 'package:felix_incordio/src/feature/settings/data/locale_repository.dart';
+import 'package:felix_incordio/src/feature/settings/data/theme_datasource.dart';
+import 'package:felix_incordio/src/feature/settings/data/theme_mode_codec.dart';
+import 'package:felix_incordio/src/feature/settings/data/theme_repository.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:sizzle_starter/src/core/utils/logger.dart';
-import 'package:sizzle_starter/src/feature/app/logic/tracking_manager.dart';
-import 'package:sizzle_starter/src/feature/initialization/model/dependencies.dart';
-import 'package:sizzle_starter/src/feature/initialization/model/environment_store.dart';
-import 'package:sizzle_starter/src/feature/settings/bloc/settings_bloc.dart';
-import 'package:sizzle_starter/src/feature/settings/data/locale_datasource.dart';
-import 'package:sizzle_starter/src/feature/settings/data/locale_repository.dart';
-import 'package:sizzle_starter/src/feature/settings/data/theme_datasource.dart';
-import 'package:sizzle_starter/src/feature/settings/data/theme_mode_codec.dart';
-import 'package:sizzle_starter/src/feature/settings/data/theme_repository.dart';
 
 part 'initialization_factory.dart';
 

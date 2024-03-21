@@ -1,7 +1,7 @@
+import 'package:felix_incordio/src/core/localization/localization.dart';
+import 'package:felix_incordio/src/feature/home/widget/home_screen.dart';
+import 'package:felix_incordio/src/feature/settings/widget/settings_scope.dart';
 import 'package:flutter/material.dart';
-import 'package:sizzle_starter/src/core/localization/localization.dart';
-import 'package:sizzle_starter/src/feature/home/widget/home_screen.dart';
-import 'package:sizzle_starter/src/feature/settings/widget/settings_scope.dart';
 
 /// {@template material_context}
 /// [MaterialContext] is an entry point to the material context.

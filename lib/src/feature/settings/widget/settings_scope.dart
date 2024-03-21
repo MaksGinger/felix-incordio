@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:sizzle_starter/src/core/localization/localization.dart';
-import 'package:sizzle_starter/src/core/utils/extensions/context_extension.dart';
-import 'package:sizzle_starter/src/feature/app/model/app_theme.dart';
-import 'package:sizzle_starter/src/feature/settings/bloc/settings_bloc.dart';
+import 'package:felix_incordio/src/core/localization/localization.dart';
+import 'package:felix_incordio/src/core/utils/extensions/context_extension.dart';
+import 'package:felix_incordio/src/feature/app/model/app_theme.dart';
+import 'package:felix_incordio/src/feature/settings/bloc/settings_bloc.dart';
 
 /// {@template theme_scope_controller}
 /// A controller that holds and operates the app theme.

@@ -1,8 +1,8 @@
+import 'package:felix_incordio/src/core/utils/extensions/context_extension.dart';
+import 'package:felix_incordio/src/feature/initialization/model/dependencies.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:sizzle_starter/src/core/utils/extensions/context_extension.dart';
-import 'package:sizzle_starter/src/feature/initialization/model/dependencies.dart';
 
 /// {@template dependencies_scope}
 /// A widget which is responsible for providing the dependencies.
